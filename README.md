@@ -1,2 +1,2 @@
 # ForestChecker
-Checks the difference of forest cover between two maps
+Checks the difference in forest cover between two maps
